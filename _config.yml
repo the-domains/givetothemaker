@@ -1,6 +1,6 @@
 name: GivetotheMaker
 favicon: null
-layout_spectrum: 0.73279
+layout_spectrum: 0
 typography_spectrum: 0
 cta:
   domain: null
@@ -17,10 +17,6 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#fffeff'
-    - '#1f1f1f'
-    - '#636262'
-    - '#6f6f6f'
   brandStrength: 0.5
   lightness: 0
   saturation: 1
