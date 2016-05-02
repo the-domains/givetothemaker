@@ -4,8 +4,15 @@
         <description><![CDATA[GivetotheMaker]]></description>
         <link>https://thegrid.ai/givetothemaker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 15:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 15:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/givetothemaker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Merchandise is one of the ultimate ways to show your love for a game. It’s an obsession to find that thing that represents a banner of appreciation for the pixelated warmth in your heart. In the following piece I’m going to tell you why you should care about Give to the Maker.</p>]]></description>
+            <link>https://thegrid.ai/givetothemaker/merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo/index.html</link>
+            <guid isPermaLink="false">f681b447-727e-41a3-beb1-d7b95af4d1cf</guid>
+            <pubDate>Mon, 02 May 2016 15:23:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da094cc7-52f6-4f73-b494-35ee254a37d2.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/givetothemaker/i-often-tell-people-about-my-business-some-people-think-tha/index.html</link>
             <guid isPermaLink="false">7afbfcb8-8eb6-4b4c-8db0-d12bd2cf33bc</guid>
             <pubDate>Mon, 02 May 2016 15:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Merchandise is one of the ultimate ways to show your love for a game. It’s an obsession to find that thing that represents a banner of appreciation for the pixelated warmth in your heart. In the following piece I’m going to tell you why you should care about Give to the Maker.</p>]]></description>
-            <link>https://thegrid.ai/givetothemaker/merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo/index.html</link>
-            <guid isPermaLink="false">f681b447-727e-41a3-beb1-d7b95af4d1cf</guid>
-            <pubDate>Mon, 02 May 2016 15:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
