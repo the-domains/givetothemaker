@@ -18,10 +18,10 @@ color:
   brandColors:
     - '#000000'
     - '#e8e8e8'
-    - '#aaaaaa'
-    - '#232323'
-    - '#7e7e7e'
-  brandStrength: 1
+    - '#a5a5a5'
+    - '#525252'
+    - '#7d7d7d'
+  brandStrength: 0
   lightness: 0
   saturation: 1
   rhythmicContrast: 0
