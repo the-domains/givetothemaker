@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Merchandise is one of the ultimate ways to show your love for a game. It’s an obsession to find that thing that represents a banner of appreciation for the pixelated warmth in your heart. In the following piece I’m going to tell you why you should care about Give to the Maker.
-datePublished: '2016-05-02T15:16:41.015Z'
-dateModified: '2016-05-02T15:16:08.113Z'
+datePublished: '2016-05-02T15:23:56.444Z'
+dateModified: '2016-05-02T15:23:54.043Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo.md
-published: true
 url: merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6228001a-e775-4be1-9824-5fe48c57a0df.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7edbf50c8b61c1ad3fd92ee37ad3887595cc5a2.png)
 
 Merchandise is one of the ultimate ways to show your love for a game. It's an obsession to find that thing that represents a banner of appreciation for the pixelated warmth in your heart. In the following piece I'm going to tell you why you should care about Give to the Maker.
 
@@ -32,7 +32,7 @@ There are a few reasons...
 
 1\. Independent games always need money. If you are established studio merchandise is additional income. If independent developers made the kind of money large studios did from merchandise, it would give them more freedom, more expression and help them make better games.
 
-2\. I think Kickstarter is brilliant, revolutionary even, and I know that lots of independent games are made from its support. Personally though it doesn't feel accessible to me. I know you can get cool limited edition stuff and discounts, among other things, if you are willing to put down big enough donations. But the distinction I will make is buying something to support a game being made, or even pre-existing independent game. When you buy something big or small and you still feel like you are contributing then that is much more accessible to me.  I know independent video game merchandise is not currently a large industry, but I'm starting this because I think it should be. I'm not going to tell a developer what to use the money on. Ultimately I just want them to make a good game, to inspire me, excite me, and to suspend my time in reality to another place.
+2\. I think Kickstarter is brilliant, revolutionary even, and I know that lots of independent games are made from its support. Personally though it doesn't feel accessible to me. I know you can get cool limited edition stuff and discounts, among other things, if you are willing to put down big enough donations. But the distinction I will make is buying something to support a game being made, or even pre-existing independent game. When you buy something big or small and you still feel like you are contributing then that is much more accessible to me. I know independent video game merchandise is not currently a large industry, but I'm starting this because I think it should be. I'm not going to tell a developer what to use the money on. Ultimately I just want them to make a good game, to inspire me, excite me, and to suspend my time in reality to another place.
 
 I also think as a truly independent free-thinking medium, there should be more creativity. Independent game developers shouldn't want to be large studios. There should be more expansion on simple ideas. I think there are people that can and want to achieve that. This is what Give to the Maker will support, and you will support with the merchandise you buy here.
 
