@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GivetotheMaker]]></title>
         <description><![CDATA[GivetotheMaker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/givetothemaker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 11:00:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 15:16:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/givetothemaker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Merchandise is one of the ultimate ways to show your love for a game. It’s an obsession to find that thing that represents a banner of appreciation for the pixelated warmth in your heart. In the following piece I’m going to tell you why you should care about Give to the Maker.</p>]]></description>
+            <link>https://thegrid.ai/givetothemaker/merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo/index.html</link>
+            <guid isPermaLink="false">f681b447-727e-41a3-beb1-d7b95af4d1cf</guid>
+            <pubDate>Mon, 02 May 2016 15:16:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da094cc7-52f6-4f73-b494-35ee254a37d2.jpg">]]></description>
-            <link>undefinedabb86f66-1f9b-4b7c-80e0-b65215e3409f/index.html</link>
+            <link>https://thegrid.ai/givetothemaker/abb86f66-1f9b-4b7c-80e0-b65215e3409f/index.html</link>
             <guid isPermaLink="false">abb86f66-1f9b-4b7c-80e0-b65215e3409f</guid>
             <pubDate>Mon, 02 May 2016 11:00:24 GMT</pubDate>
         </item>
