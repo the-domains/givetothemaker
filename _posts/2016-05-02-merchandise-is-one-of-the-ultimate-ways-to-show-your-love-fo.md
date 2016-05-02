@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Merchandise is one of the ultimate ways to show your love for a game. It’s an obsession to find that thing that represents a banner of appreciation for the pixelated warmth in your heart. In the following piece I’m going to tell you why you should care about Give to the Maker.
-datePublished: '2016-05-02T15:23:56.444Z'
-dateModified: '2016-05-02T15:23:54.043Z'
+datePublished: '2016-05-02T15:50:56.703Z'
+dateModified: '2016-05-02T15:24:06.043Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-merchandise-is-one-of-the-ultimate-ways-to-show-your-love-fo.md
