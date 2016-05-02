@@ -1,7 +1,7 @@
 name: GivetotheMaker
 favicon: null
 layout_spectrum: 0.4648582737427205
-typography_spectrum: 0.30946852336637676
+typography_spectrum: 0.48649
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7548184951301664
+  brandStrength: 1
   lightness: 0.24665889493189752
   saturation: 0.45727235078811646
   rhythmicContrast: 0.468034409917891
