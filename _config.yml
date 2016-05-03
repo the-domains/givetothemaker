@@ -1,5 +1,7 @@
-favicon: null
-name: GivetotheMaker
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,19 +20,17 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 1
+  saturation: 0.5185497
   brandStrength: 0.9637437
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#000000'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 typography_spectrum: 0
+layout_spectrum: 0.2875211
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.2875211
+favicon: null
+name: GivetotheMaker
