@@ -1,4 +1,5 @@
-layout_spectrum: 0.3431703
+favicon: null
+name: GivetotheMaker
 opengraph:
   image: null
   type: null
@@ -24,13 +25,12 @@ color:
     - '#000000'
   lightness: 0
 typography_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: GivetotheMaker
+cta:
+  bucket: null
+  version: null
+  domain: null
